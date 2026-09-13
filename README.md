@@ -110,9 +110,9 @@ A responsive personal portfolio website showcasing my skills, projects, certific
 
 ### 🏆 Achievements & Certifications
 
-- 🎖️ TCS Certification
+- 🎖️ Google cloud Certification
 - ☁️ AWS Certification
-- 🤖 IBM Generative AI Certification
+- 🤖 Infosys springboard Certification
 
 ---
 
